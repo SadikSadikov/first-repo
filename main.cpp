@@ -1,3 +1,3 @@
 #include "Warriro.h"
-bool func();
+int func();
 int main(){}
