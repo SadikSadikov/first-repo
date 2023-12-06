@@ -1,3 +1,6 @@
 #include "Warriro.h"
-int func()
-int main(){}
+int func();
+int main()
+{
+	
+}
